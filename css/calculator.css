@@ -1,0 +1,17 @@
+input[type="button"]
+{
+width:100px;
+height:100px;
+font-size:20px;
+background-color:gray;
+}
+input[type="text"]
+{
+width:300px;
+height:100px;
+font-size:30px;
+}
+#calcy
+{
+padding-top:20px;
+}
